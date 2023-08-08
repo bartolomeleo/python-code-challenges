@@ -1,3 +1,7 @@
 # python-code-challenges
 
-This challenge is to get more familiar with web development, and data science
+pip install fastapi
+pip install "uvicorn[standard]"
+pip install python-multipart sqlalchemy jinja2
+
+uvicorn app:app --reload
